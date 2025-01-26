@@ -51,6 +51,7 @@ function sortearAmigo(){
     }
 }
 
+//função que limpa a lista de amigos na tela
 function limparLista(){
     let listaNomes = document.getElementById("listaAmigos");
     listaNomes.innerHTML = "";
