@@ -4,17 +4,33 @@ Este código permite adicionar nomes de amigos a uma lista e sortear um nome ale
 
 ---
 
+
+![image](https://github.com/user-attachments/assets/a3f084f4-a967-48e3-92c9-6c2b427fa332)
+
+
 ## Como Usar:
 
 ### Adicionar um Amigo:
 1. Digite o nome no campo de entrada (certifique-se que o nome não contenha números, caracteres especiais, etc).
+![image](https://github.com/user-attachments/assets/58cb3068-27fb-4454-ab38-581424d98899)
+
 2. Clique no botão **"Adicionar"**.
+![image](https://github.com/user-attachments/assets/a8dbe508-26be-4b3a-a74e-89f133b7b8a3)
+
 3. O nome será adicionado à lista, e o campo de entrada será limpo automaticamente.
+![image](https://github.com/user-attachments/assets/303ab259-e0cf-4222-b671-71dd49e02ada)
+
 
 ### Sortear um Amigo:
 1. Certifique-se de que há pelo menos um nome na lista.
-2. Clique no botão **"Sortear"**.
+![image](https://github.com/user-attachments/assets/05f47c5a-20ba-4f72-a340-654e59845973)
+
+2. Clique no botão **"Sortear Amigo"**.
+![image](https://github.com/user-attachments/assets/f5b60d04-5796-4e4d-be7b-5ea93d4255b4)
+
 3. O nome sorteado será exibido na tela, e a lista será limpa.
+![image](https://github.com/user-attachments/assets/42e46304-63fd-414b-aab6-c8c7429dd579)
+
 
 ---
 
